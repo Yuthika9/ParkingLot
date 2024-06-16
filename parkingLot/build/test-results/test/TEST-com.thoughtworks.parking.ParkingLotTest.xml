@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.parking.ParkingLotTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-06-16T15:41:40" hostname="Yuthikas-MacBook-Pro.local" time="0.013">
+  <properties/>
+  <testcase name="shouldParkMultipleCarsWhenAParkingSlotsAreAvailable()" classname="com.thoughtworks.parking.ParkingLotTest" time="0.007"/>
+  <testcase name="shouldParkACarWhenAParkingSlotIsAvailable()" classname="com.thoughtworks.parking.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldReturnTryToParkParkableEntityTwiceExceptionWhenParkingSameCarTwice()" classname="com.thoughtworks.parking.ParkingLotTest" time="0.001"/>
+  <testcase name="shouldReturnParkingSlotFullExceptionWhenParkingSlotIsUnavailable()" classname="com.thoughtworks.parking.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldReturnParkableNotPresentExceptionWhenTryingToUnparkWhenThatCarIsNotPresent()" classname="com.thoughtworks.parking.ParkingLotTest" time="0.0"/>
+  <testcase name="shouldUnparkACarWhenItIsAlreadyParked()" classname="com.thoughtworks.parking.ParkingLotTest" time="0.001"/>
+  <testcase name="shouldReturnNullPointerExceptionWhenParkableIsNull()" classname="com.thoughtworks.parking.ParkingLotTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
